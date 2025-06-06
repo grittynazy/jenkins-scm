@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1747737588,,"q!"
+|2,0,1749217895,,"q!"
 :wq!
 |2,0,1747737437,,"wq!"
 
@@ -27,18 +27,32 @@
 # Registers:
 
 # File marks:
-'0  10  0  ~/index.html
-|4,48,10,0,1747737588,"~/index.html"
-'1  1  0  ~/dockerfile
-|4,49,1,0,1747737531,"~/dockerfile"
-'2  10  0  ~/index.html
-|4,50,10,0,1747737437,"~/index.html"
-'3  14  0  ~/dockerfile
-|4,51,14,0,1747737387,"~/dockerfile"
-'4  14  0  ~/dockerfile
-|4,52,14,0,1747737387,"~/dockerfile"
+'0  15  0  ~/dockerfile
+|4,48,15,0,1749217895,"~/dockerfile"
+'1  10  0  ~/index.html
+|4,49,10,0,1747737588,"~/index.html"
+'2  1  0  ~/dockerfile
+|4,50,1,0,1747737531,"~/dockerfile"
+'3  1  0  ~/dockerfile
+|4,51,1,0,1747737531,"~/dockerfile"
+'4  10  0  ~/index.html
+|4,52,10,0,1747737437,"~/index.html"
+'5  14  0  ~/dockerfile
+|4,53,14,0,1747737387,"~/dockerfile"
+'6  14  0  ~/dockerfile
+|4,54,14,0,1747737387,"~/dockerfile"
+'7  14  0  ~/dockerfile
+|4,55,14,0,1747737387,"~/dockerfile"
+'8  14  0  ~/dockerfile
+|4,56,14,0,1747737387,"~/dockerfile"
 
 # Jumplist (newest first):
+-'  15  0  ~/dockerfile
+|4,39,15,0,1749217895,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1749217843,"~/dockerfile"
+-'  10  0  ~/index.html
+|4,39,10,0,1747737588,"~/index.html"
 -'  10  0  ~/index.html
 |4,39,10,0,1747737588,"~/index.html"
 -'  1  0  ~/dockerfile
@@ -49,10 +63,22 @@
 |4,39,14,0,1747737508,"~/dockerfile"
 -'  14  0  ~/dockerfile
 |4,39,14,0,1747737508,"~/dockerfile"
+-'  14  0  ~/dockerfile
+|4,39,14,0,1747737508,"~/dockerfile"
 -'  10  0  ~/index.html
 |4,39,10,0,1747737437,"~/index.html"
 -'  10  0  ~/index.html
 |4,39,10,0,1747737437,"~/index.html"
+-'  10  0  ~/index.html
+|4,39,10,0,1747737437,"~/index.html"
+-'  10  0  ~/index.html
+|4,39,10,0,1747737437,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1747737401,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1747737401,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1747737401,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1747737401,"~/index.html"
 -'  1  0  ~/index.html
@@ -78,16 +104,17 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/dockerfile
+	*	1749217891	0
+	"	15	0
+	^	15	0
+	.	26	0
+	+	13	77
+	+	26	0
+
 > ~/index.html
 	*	1747737537	0
 	"	10	0
 	^	10	0
 	.	9	7
 	+	9	7
-
-> ~/dockerfile
-	*	1747737512	0
-	"	1	0
-	^	14	0
-	.	13	77
-	+	13	77

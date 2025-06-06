@@ -140,3 +140,17 @@ cat dockerfile
 cat index.html 
 echo Congratulations, You have successfully run your first pipeline code >> index.html
 cat index.html 
+docker images
+git remote -v
+git init
+git remote add origin https://github.com/grittynazy/jenkins-scm.git
+git remote -v
+git branch -m main
+git add .
+git commit -m "ok"
+git push -u origin main
+git pull
+git add .
+git commit -m "ok"
+git push
+git push --set-upstream origin main
